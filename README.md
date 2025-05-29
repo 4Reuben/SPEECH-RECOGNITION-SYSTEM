@@ -12,10 +12,10 @@
 
 *MENTOR*: NEELA SANTOSH
 
-** PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
 
 (500 WORDS MINIMUM)
 
-** OUTPUT
+## OUTPUT
 
-(LINK FROM ISSUE)
+![Image](https://github.com/user-attachments/assets/d53ed2a0-228c-4968-8b0a-ef255d2b9984)
